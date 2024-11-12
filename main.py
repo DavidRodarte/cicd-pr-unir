@@ -1,6 +1,8 @@
 """
 License: Apache
 Organization: UNIR
+Asignatura: Entornos de Integración y Entrega Continua
+Alumno: David Rodarte Hernández
 """
 
 import os
